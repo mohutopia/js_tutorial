@@ -1,2 +1,3 @@
-# js_tutorial
-Course about JavaScript and the DOM from OpenClassrooms
+# JAVASCRIPT - FRONTEND
+
+## Course about JavaScript, the DOM and HTTP requests from OpenClassrooms
